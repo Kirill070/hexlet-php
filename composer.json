@@ -11,5 +11,7 @@
             "email": "kirill070@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
 }
