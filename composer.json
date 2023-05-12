@@ -14,7 +14,13 @@
             "email": "kirill070@gmail.com"
         }
     ],
+    "scripts": {
+        "phpcs": "phpcs"
+    },
     "require": {
         "tightenco/collect": "^9.52"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.7"
     }
 }
